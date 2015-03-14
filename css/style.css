@@ -1,0 +1,67 @@
+/******Body******/
+body{
+font-family: 'Lato', sans-serif;
+font-weight: 300;
+font-size: 100%;
+color: #333;	
+}
+
+h1,h2,h3,h4{
+font-family: 'Lato', sans-serif;
+font-weight: 300;
+color: #333;	
+}
+
+p {
+/*line-height:2rem;*/
+margin-bottom:20px;
+font-size:1.6rem;
+}
+			
+/***** Footer section **********/
+footer .fa-heart{
+	color:red;
+	-webkit-animation-iteration-count:infinite;
+}
+footer{
+background-color: #F1F1F1;
+border-top: 1px solid #E0E0E0;
+color: #b0b0b0;
+margin-top: 100px;
+padding-bottom:30px;
+padding-top:30px;
+text-align: center;
+}
+
+/* Titles */
+
+
+/********Header***************/
+#home-header{
+}
+
+/********Navigation and links***************/
+
+.link_btn:hover,.link_btn :focus {color:#e15b5f; background-color:#fff;text-decoration:none;}
+.navbar-default {
+/*	background-color: #3498db;
+	*/border-color: transparent;
+}
+
+.navbar-default .navbar-brand {
+	color: black;
+}
+
+.navbar-default .navbar-nav > li > a {
+	color: black;
+	font-size:1.5rem;
+}
+
+.header {
+	margin-top:70px;
+}
+
+
+.btn-center{
+	text-align: center;
+}
